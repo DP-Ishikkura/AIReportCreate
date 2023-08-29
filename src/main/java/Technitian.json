@@ -1,0 +1,7 @@
+{
+	"technitians": [
+		{"name": "石川 恵", "code": "0106000409", "ai": true, "et": false},
+		{"name": "石倉 夏樹", "code": "2000002915", "ai": true, "et": true},
+		{"name": "平 勇人", "code": "", "ai": true, "et": false}
+	]
+}
